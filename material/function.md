@@ -1,3 +1,10 @@
+<a href="https://github.com/drshahizan/ai-tools/stargazers"><img src="https://img.shields.io/github/stars/drshahizan/ai-tools" alt="Stars Badge"/></a>
+<a href="https://github.com/drshahizan/ai-tools/network/members"><img src="https://img.shields.io/github/forks/drshahizan/ai-tools" alt="Forks Badge"/></a>
+<a href="https://github.com/drshahizan/ai-tools"><img src="https://img.shields.io/github/issues-pr/drshahizan/ai-tools" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/drshahizan/ai-tools/issues"><img src="https://img.shields.io/github/issues/drshahizan/ai-tools" alt="Issues Badge"/></a>
+<a href="https://github.com/drshahizan/ai-tools/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/ai-tools?color=2b9348"></a>
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fai-tools&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
+
 # Use of Generative AI
 
 ## 1. Answering Questions
@@ -38,4 +45,18 @@ Creative content refers to the creation of original and innovative materials, wh
 | 15  | Haiku                        | A very short form of Japanese poetry, usually with a 5-7-5 syllable structure, often describing nature.                      | Write a haiku about leadership at PolyU Hong Kong.                                                      |
 | 16  | Inspirational Story          | A narrative aimed at motivating or inspiring readers through stories of success or perseverance.                             | Write an inspirational story about a PolyU Hong Kong leader who successfully brings positive change.    |
 | 17  | Landscape or Place Description| Writing that describes a place or scenery in detail and beautifully.                                                        | Write a description of PolyU Hong Kong's campus landscape that reflects strategic leadership in every corner. |
-| 18  | Formal or Informal Letter    | Writing that can be formal or casual, depending on the context and recipient.                                                | Write a
+| 18  | Formal or Informal Letter    | Writing that can be formal or casual, depending on the context and recipient.                                                | Write a formal letter to a PolyU Hong Kong leader congratulating them on achieving strategic success.   |
+| 19  | Review or Critique           | Writing that reviews or critiques a particular work of art, book, film, or performance.                                      | Write a review of a book discussing leadership strategies at PolyU Hong Kong.                           |
+| 20  | Blog or Social Media Post    | Content written for online platforms, often with a conversational and attention-grabbing tone.                               | Write a blog about the latest strategic steps taken by PolyU Hong Kong's leadership.                    |
+
+## 3. Information Summarization
+Helping to summarize articles, books, or other documents. Here are some examples of instructions for summarizing information from various sources:
+
+| No. | Topic             | Instruction |
+|-----|-------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1   | Academic Article  | Summarize this article discussing technological innovations at PolyU Hong Kong and how they impact the quality of education and research at the university.  |
+| 2   | Research Report   | Summarize this report examining the effectiveness of industrial training programs organized by PolyU Hong Kong in improving graduates' employability.         |
+| 3   | Book              | Summarize this chapter in a book about the history of higher education in Hong Kong, specifically discussing PolyU Hong Kong's role in providing educational access. |
+| 4   | News Article      | Summarize this news article reporting the success of PolyU Hong Kong students in international competitions and the impact of that success on the university's reputation. |
+| 5   | Annual Report     | Summarize this section from PolyU Hong Kong's annual report covering academic achievements, research, and community service over the past year.               |
+| 6   | Interview         | Summarize this interview with a senior lecturer at PolyU Hong Kong discussing curriculum changes and teaching approaches in the digital
