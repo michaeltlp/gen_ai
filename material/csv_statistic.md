@@ -81,22 +81,29 @@ Key statistics:
 
 2. Generate suitable charts
 
-<p align="center">
-<img src="/images/total_daily.png"  height="400" />
-</p>
 
 ```
-Here are two charts based on the daily passenger traffic data:
+We can generate several suitable charts from this data, such as:
 
-    Histograms for Different Passenger Categories:
-        The first set of charts shows the distribution of daily passenger traffic for Hong Kong Residents, Mainland Visitors, and Other Visitors.
-        Each histogram indicates the frequency of days with different numbers of passengers in each category.
+    ## Total Passenger Traffic Over Time:## Showing the total number of passengers (both arrivals and departures) over time.
+    ## Daily Arrivals and Departures:## Separate line charts for daily arrivals and departures.
+    ## Passenger Traffic by Control Point:## Comparing the total traffic through different control points.
+    ## Passenger Composition:## Breakdown of passengers into Hong Kong residents, mainland visitors, and other visitors over time.
 
-    Time Series of Total Daily Passenger Traffic:
-        The second chart is a time series plot showing the total daily passenger traffic over time.
-        This chart provides an overview of the trends and variations in the total number of passengers recorded each day.
+Let's start by generating these charts.
+##Chart 1: Total Passenger Traffic Over Time
 
-If you need further analysis or specific customizations, please let me know! ​
+We'll first convert the date column to a datetime format and aggregate the total passenger traffic over time.
+Chart 2: Daily Arrivals and Departures
+
+We'll create separate line charts for daily arrivals and departures.
+Chart 3: Passenger Traffic by Control Point
+
+We'll compare the total traffic through different control points.
+Chart 4: Passenger Composition
+
+We'll show the breakdown of passengers into Hong Kong residents, mainland visitors, and other visitors over time. ​
+​
 
 ```
 ​
