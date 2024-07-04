@@ -32,6 +32,4 @@
 #### Acknowledgments
 I would like to acknowledge [drshahizan](https://github.com/drshahizan) for his valuable material and contributions above.
 
-Please submit [Issue](https://github.com/michaeltlp/gen_ai/issues) for any improvements, suggestions, or to report errors in the content.
-
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmichaeltlp&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fmichaeltlp)
