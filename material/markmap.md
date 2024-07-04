@@ -101,9 +101,9 @@ visualised in the mind map.
   - Balancing security and privacy
   - Regulation of AI surveillance technologies
 
-This mind map provides a visual representation of the hierarchical structure of the primary theme and its related categories, ensuring that the linkages and hierarchies within the data are clearly illustrated.  ```
+This mind map provides a visual representation of the hierarchical structure of the primary theme and its related categories, ensuring that the linkages and hierarchies within the data are clearly illustrated.  
 
-```
+
 ## 2. [MarkMap](https://markmap.js.org/repl)
 Paste the Markdown code into [MarkMap](https://markmap.js.org/repl): Open Markmap and paste your copied markdown content. Markmap will automatically generate an interactive mind map based on the markdown structure.
 
