@@ -16,8 +16,7 @@
 |    |        | [Exercise 3: MarkMap](/material/markmap.md) |
 |    |        | [Exercise 4: Image Analysis using ChatGPT](/material/image_analysis.md) |
 |    |        | [Exercise 5: CSV File Analysis using ChatGPT](/material/csv_statistic.md) |
-|    |        | [Exercise 6: Malaysian Cultural Artistry](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/drawing.md) |
-|    |        | [Think Machine: Multidimensional Mind Mapping](https://thinkmachine.com/) |
+|    |        | [Exercise 6: Malaysian Cultural Artistry](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/drawing.md) | 
 | 4. | Instruction | [Chain of Thought Framework (CoT)](../materials/gen_frame/1cot.md) |
 |    |             | [RTF Framework: _Role_, _Task_, and _Format_](../materials/gen_frame/2rtf.md) |
 |    |             | [BAB Framework: _Before_, _After_, _Bridge_](../materials/gen_frame/3bab.md) |
