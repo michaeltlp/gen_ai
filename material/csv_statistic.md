@@ -104,12 +104,11 @@ Chart 4: Passenger Composition
 
 We'll show the breakdown of passengers into Hong Kong residents, mainland visitors, and other visitors over time. ​
 ​
-<p align="center">
+```
+
+​<p align="center">
 <img src="/images/statistic_hk.png"  height="150" />
 <img src="/images/statistic_hk.png"  height="150" />
 <img src="/images/statistic_hk.png"  height="150" />
 <img src="/images/statistic_hk.png"  height="150" />
 </p>
-
-```
-​
