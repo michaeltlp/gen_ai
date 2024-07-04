@@ -142,3 +142,29 @@ YSN-ASM Colloquium – Day 2 (8:00 am - 10:00 pm)
 |-------------------|------------------------------------------------------------------------------------|
 
 ```
+
+2. Please create news related to the program in past tense
+```
+Here's a news article about the program in past tense:
+Highlights from the 2023 YSN-ASM Colloquium and Chrysalis Award Final Pitch
+
+The Young Scientists Network-Academy of Sciences Malaysia (YSN-ASM) successfully hosted its 2023 Colloquium and Chrysalis Award Final Pitch from 27 to 29 October 2023. The event brought together the brightest minds in science and innovation, creating an inspiring environment filled with intellectual vigor and collaborative spirit.
+Day 1: Chrysalis Award Final Pitch
+
+The first day of the event featured the highly anticipated Chrysalis Award Final Pitch. The program began at 2:30 pm with the arrival of guests and participants, followed by the national anthem and Doa recitation. The introduction of the 2023 Chrysalis Award Finalists set the stage for an afternoon of groundbreaking presentations.
+
+Datuk Dr Tengku Mohd Azzman Shariffadeen FASc, President of the Academy of Sciences Malaysia (ASM), delivered a compelling keynote address. The afternoon continued with presentations from five finalist teams, each showcasing innovative projects and solutions. The session concluded with a networking event, allowing participants to connect and share ideas.
+Day 1 Evening: YSN-ASM Colloquium
+
+The evening session marked the commencement of the YSN-ASM Colloquium. The program included a welcoming speech by Associate Professor Ts Dr Nurfadhlina Mohd Sharef, Chairperson of YSN-ASM, followed by a presidential address by Datuk Dr Tengku Mohd Azzman Shariffadeen FASc. The ceremony honored new YSN-ASM members and affiliates, and recognized the contributions of the 2022/2023 YSN-ASM Exco Members. An engaging ice-breaking session concluded the first day.
+Day 2: Intensive Colloquium Sessions
+
+Day two featured a full schedule, beginning with breakfast and speed networking. Participants engaged in working group presentations and reflections, followed by a discussion on the ethos and values of YSN-ASM and ASM. The election of the 2023/2024 YSN-ASM EXCO candidates was a key highlight of the morning.
+
+A dynamic dialogue session with YB Tuan Chang Lih Kang, Minister of Science, Technology and Innovation, headlined the mid-morning activities. This session included a speech by the Minister and the announcement of the 2023 YSN-ASM Chrysalis Award Winners.
+
+After a lunch and prayer break, the afternoon featured the announcement of the new YSN-ASM EXCO Members and the first part of the YSN Big IDEAS series. The day continued with team-building activities and concluded with the second part of the YSN Big IDEAS series, wrapping up at 10:00 pm.
+Reflecting on the Event
+
+The 2023 YSN-ASM Colloquium and Chrysalis Award Final Pitch proved to be an enriching experience, fostering collaboration and innovation among Malaysia's young scientific community. The event highlighted the exceptional talent and dedication of the participants, setting a high standard for future gatherings.
+```
