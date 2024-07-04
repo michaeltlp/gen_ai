@@ -42,3 +42,37 @@ The dataset provides insights into passenger traffic patterns at different contr
 Would you like any specific analysis or visualizations for this data? ​
 ​
 ```
+## Instructions
+1. Please generate the descriptive statistics of daily passenger traffic in ASCII format and highlight key statistics for the dataset
+```
+Descriptive Statistics of Daily Passenger Traffic
+--------------------------------------------------------------------
+|                           | Hong Kong Residents | Mainland Visitors | Other Visitors | Total         |
+--------------------------------------------------------------------
+| count                     | 39206.0             | 39206.0           | 39206.0         | 39206.0       |
+--------------------------------------------------------------------
+| mean                      | 6391.2              | 2217.8            | 639.6           | 9248.6        |
+--------------------------------------------------------------------
+| std                       | 14480.4             | 5057.7            | 2385.2          | 19693.5       |
+--------------------------------------------------------------------
+| min                       | 0.0                 | 0.0               | 0.0             | 0.0           |
+--------------------------------------------------------------------
+| 25%                       | 0.0                 | 0.0               | 0.0             | 0.0           |
+--------------------------------------------------------------------
+| 50%                       | 0.0                 | 0.0               | 0.0             | 0.0           |
+--------------------------------------------------------------------
+| 75%                       | 3580.0              | 915.75            | 132.75          | 5023.0        |
+--------------------------------------------------------------------
+| max                       | 155071.0            | 53608.0           | 30575.0         | 168435.0      |
+--------------------------------------------------------------------
+
+
+```
+
+Key statistics:
+
+    Mean: Provides the average number of passengers in each category.
+    Standard Deviation (std): Indicates the variability in the number of passengers.
+    Minimum (min): Shows the lowest recorded number of passengers.
+    Maximum (max): Shows the highest recorded number of passengers.
+    Count: The total number of days data was recorded.
