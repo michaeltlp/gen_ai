@@ -43,7 +43,7 @@ Document analysis of PDFs in Microsoft Edge can be performed using the available
 6. **Translating PDFs**: Microsoft Edge allows you to translate text from PDF documents into other languages. Select the text you want to translate, then click the translate icon in the PDF toolbar.
 
 <p align="center">
-<img src="../../images/p1translate.png" height="350" />
+<img src="../images/p1translate.png" height="350" />
 </p>
 
 8. **Using Bing AI for Analysis**: You can use Bing AI to analyze PDF documents by opening the document in Edge, clicking the Bing AI icon, and clicking 'summarize this' to get a summary of the document.
