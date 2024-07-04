@@ -101,7 +101,6 @@ visualised in the mind map.
   - Balancing security and privacy
   - Regulation of AI surveillance technologies
 
-
 This mind map provides a visual representation of the hierarchical structure of the primary theme and its related categories, ensuring that the linkages and hierarchies within the data are clearly illustrated.  ```
 
 ```
@@ -121,8 +120,6 @@ Remember, Markmap supports various markdown features such as:
 - **Styling**: Apply bold, italic, strikethrough, and highlights to text.
 - **Code Blocks**: Include code snippets or formulas.
 - **Images and Links**: Embed images and create hyperlinks.
-
-For a detailed guide and advanced features, you can refer to the [Markmap documentation](https://mindmapexpert.com/review/how-to-create-a-mind-map-using-markmap-js/) or visit the [Markmap GitHub repository](https://github.com/dundalek/markmap). Enjoy creating and navigating your mind maps
 
 Please create an [Issue](https://github.com/michaeltlp/gen_ai/issues) for any improvements, suggestions, or to report errors in the content.
 
