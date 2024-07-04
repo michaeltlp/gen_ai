@@ -28,7 +28,7 @@
 |    |             | [ChatGPT Expert Prompts](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/prompt.md) |
 |    |             | [215+ ChatGPT Prompts & How to Write Your Own](https://writesonic.com/blog/chatgpt-prompts) |
 |    |             | [Chat with Copilot regarding the PDF file](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/copilot.md) |
-| 5. | Quiz  | [Module 2 Quiz](/material/Quiz Module 2.pdf) |
+| 5. | Quiz  | [Module 2 Quiz](/material/Quiz%20Module%202.pdf) |
 
 #### Acknowledgments
 I would like to acknowledge [drshahizan](https://github.com/drshahizan) for his valuable material and contributions above.
