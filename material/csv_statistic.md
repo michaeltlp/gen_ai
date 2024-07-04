@@ -186,3 +186,66 @@ Here are 15 prompts that are suitable for exploring and analyzing the provided d
 15. **Correlation Analysis**:
     - "Analyze the correlation between different types of passengers (Hong Kong residents, mainland visitors, other visitors) and total traffic."
 ```
+
+```
+<b>Trend Analysis</b>:
+
+    "Analyze the overall trend in daily passenger traffic from 2021 onwards."
+
+<b>Comparison of Arrivals and Departures</b>:
+
+    "Compare the daily arrivals and departures of passengers over the entire dataset."
+
+<b>Peak Traffic Days</b>:
+
+    "Identify the days with the highest and lowest total passenger traffic."
+
+<b>Control Point Traffic</b>:
+
+    "Which control point handles the most passenger traffic overall?"
+
+<b>Passenger Composition</b>:
+
+    "Analyze the composition of passengers (Hong Kong residents, mainland visitors, other visitors) over time."
+
+<b>Monthly Traffic Trends</b>:
+
+    "What are the monthly trends in passenger traffic?"
+
+<b>Impact of Specific Events</b>:
+
+    "Analyze the impact of specific events (e.g., holidays, public health measures) on passenger traffic."
+
+<b>Weekday vs. Weekend Traffic</b>:
+
+    "Compare the passenger traffic on weekdays versus weekends."
+
+<b>Annual Growth</b>:
+
+    "Calculate the annual growth rate of total passenger traffic."
+
+<b>Seasonal Variations</b>:
+
+    "Identify any seasonal variations in passenger traffic."
+
+<b>Traffic by Arrival/Departure</b>:
+
+    "Which type of movement (arrival or departure) is more common at each control point?"
+
+<b>Daily Traffic Patterns</b>:
+
+    "Identify patterns in daily traffic for each control point."
+
+<b>Passenger Traffic Peaks</b>:
+
+    "Determine the peak hours for passenger arrivals and departures."
+
+<b>Forecasting Traffic</b>:
+
+    "Forecast the passenger traffic for the next month using the historical data."
+
+<b>Correlation Analysis</b>:
+
+    "Analyze the correlation between different types of passengers (Hong Kong residents, mainland visitors, other visitors) and total traffic."
+
+```
