@@ -21,7 +21,7 @@ To open the PDF document named "paper1.pdf" in Microsoft Edge, please follow the
 3. If the document is already open in another web browser, you can **drag and drop** the PDF file into the Microsoft Edge window to open it. The figure below shows a successfully opened PDF file in Microsoft Edge.
 
 <p align="center">
-<img src="../images/paper1.png" height="350" />
+<img src="../images/paper1.png" height="550" />
 </p>
 
 Once the document is open in Microsoft Edge, you can use the toolbar at the top of the screen to navigate the document, adjust the view size, and search for specific text. Microsoft Edge also provides functions to edit, save, or print the PDF document.
