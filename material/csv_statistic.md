@@ -107,8 +107,15 @@ We'll show the breakdown of passengers into Hong Kong residents, mainland visito
 ```
 
 ​<p align="center">
-<img src="/images/statistic_hk.png"  height="150" />
-<img src="/images/statistic_hk.png"  height="150" />
-<img src="/images/statistic_hk.png"  height="150" />
-<img src="/images/statistic_hk.png"  height="150" />
+  <img src="/images/statistic_hk1.png" height="150" />
 </p>
+<p align="center">
+  <img src="/images/statistic_hk2.png" height="150" />
+</p>
+<p align="center">
+  <img src="/images/statistic_hk3.png" height="150" />
+</p>
+<p align="center">
+  <img src="/images/statistic_hk4.png" height="150" />
+</p>
+
