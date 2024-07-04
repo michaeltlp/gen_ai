@@ -2,7 +2,7 @@
 |----|--------|-------|
 | 1. | Slide | [Generative AI Facilitating Daily Activities: Transforming Modern Lifestyle](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/Ea4jHzBjWThBoiMKH93K5vQBWWfEFBIARMYtOUZf5sGs7Q?e=C5ZIoB) |
 | 2. | Article | [Generative AI Global Interest Report 2023](https://www.electronicshub.org/generative-ai-global-interest-report-2023/) |
-| 3. | Installation & Login | [ChatGPT, Copilot, Gemini](../materials/untw/signin.md) |
+| 3. | Installation & Login | [ChatGPT, Copilot, Gemini](material/installation.md) |
 | 4. | Exercise | [Exercise 1: Using Generative AI Commands](../materials/untw/fungsi.md) |
 |    |        | [Exercise 2: Document Analysis using Copilot](../materials/untw/dokumen_copilot.md) |
 |    |        | [Exercise 3: MarkMap](../materials/pimpin/markmap.md) |
