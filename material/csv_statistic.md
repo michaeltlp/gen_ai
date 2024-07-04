@@ -85,10 +85,10 @@ Key statistics:
 ```
 We can generate several suitable charts from this data, such as:
 
-    ## Total Passenger Traffic Over Time:## Showing the total number of passengers (both arrivals and departures) over time.
-    ## Daily Arrivals and Departures:## Separate line charts for daily arrivals and departures.
-    ## Passenger Traffic by Control Point:## Comparing the total traffic through different control points.
-    ## Passenger Composition:## Breakdown of passengers into Hong Kong residents, mainland visitors, and other visitors over time.
+    Total Passenger Traffic Over Time: Showing the total number of passengers (both arrivals and departures) over time.
+    Daily Arrivals and Departures: Separate line charts for daily arrivals and departures.
+    Passenger Traffic by Control Point: Comparing the total traffic through different control points.
+    Passenger Composition: Breakdown of passengers into Hong Kong residents, mainland visitors, and other visitors over time.
 
 Let's start by generating these charts.
 ##Chart 1: Total Passenger Traffic Over Time
@@ -104,6 +104,12 @@ Chart 4: Passenger Composition
 
 We'll show the breakdown of passengers into Hong Kong residents, mainland visitors, and other visitors over time. ​
 ​
+<p align="center">
+<img src="/images/statistic_hk.png"  height="150" />
+<img src="/images/statistic_hk.png"  height="150" />
+<img src="/images/statistic_hk.png"  height="150" />
+<img src="/images/statistic_hk.png"  height="150" />
+</p>
 
 ```
 ​
