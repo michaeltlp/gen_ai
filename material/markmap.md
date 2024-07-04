@@ -107,10 +107,10 @@ This mind map provides a visual representation of the hierarchical structure of 
 ## 2. [MarkMap](https://markmap.js.org/repl)
 Paste the Markdown code into [MarkMap](https://markmap.js.org/repl): Open Markmap and paste your copied markdown content. Markmap will automatically generate an interactive mind map based on the markdown structure.
 
-**Example**: Amanat Naib Canselor
+**Example**: Artificial Intelligence (AI) Ethics
 
 <p align="center">
-<img src="../images/aimarkmap.png" height="1000" />
+<img src="../images/aimarkmap.png" height="1100" />
 </p>
 
 ## 3. Interact with Your Mind Map
