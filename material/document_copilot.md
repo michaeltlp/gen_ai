@@ -55,10 +55,10 @@ Document analysis of PDFs in Microsoft Edge can be performed using the available
 
 You can also click on 'Suggest questions about this document,' resulting in the following:
 
-1. **IoT Security**: How do feature selection and feature extraction methods compare in terms of improving IoT intrusion detection systems?
-2. **Machine Learning Techniques**: What are the advantages and disadvantages of using machine learning for network intrusion detection in IoT?
-3. **Dataset Analysis**: Can you explain the significance of the TON-IoT dataset used in the study for IoT security research?
-4. **Performance Metrics**: What performance metrics were used to evaluate the intrusion detection models, and why are they important?
+1. **Band Gap Engineering:** How does aluminium doping affect the band gap of silicene?
+2. **Carrier Transport:** What are the key findings related to the intrinsic velocity and carrier concentration in AlSi₃ nanowires?
+3. **Device Performance:** How do the I–V characteristics of AlSi₃ nanowires compare to other materials used in MOSFET devices?
+4. **Future Applications:** What potential applications are suggested for AlSi₃ nanowires in nanoelectronics?
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmichaeltlp&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fmichaeltlp)
 
