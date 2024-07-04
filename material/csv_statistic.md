@@ -107,31 +107,31 @@ We'll show the breakdown of passengers into Hong Kong residents, mainland visito
 ```
 
 ​<p align="center">
-  <em>Title for Chart 1</em>
+  <strong>Total Passenger Traffic Over Time</strong>
 </p>
 <p align="center">
-  <img src="/images/chart1.png" height="300" alt="Title for Chart 1" />
-</p>
-
-<p align="center">
-  <em>Title for Chart 2</em>
-</p>
-<p align="center">
-  <img src="/images/chart2.png" height="300" alt="Title for Chart 2" />
+  <img src="/images/chart1.png" height="300" alt="Total Passenger Traffic Over Time" />
 </p>
 
 <p align="center">
-  <em>Title for Chart 3</em>
+  <strong>Daily Arrivals and Departures</strong>
 </p>
 <p align="center">
-  <img src="/images/chart3.png" height="300" alt="Title for Chart 3" />
+  <img src="/images/chart2.png" height="300" alt="Daily Arrivals and Departures" />
 </p>
 
 <p align="center">
-  <em>Title for Chart 4</em>
+  <strong>Passenger Traffic by Control Point</strong>
 </p>
 <p align="center">
-  <img src="/images/chart4.png" height="300" alt="Title for Chart 4" />
+  <img src="/images/chart3.png" height="300" alt="Passenger Traffic by Control Point" />
+</p>
+
+<p align="center">
+  <strong>Passenger Composition Over Time</strong>
+</p>
+<p align="center">
+  <img src="/images/chart4.png" height="300" alt="Passenger Composition Over Time" />
 </p>
 
 
