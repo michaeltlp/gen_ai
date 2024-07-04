@@ -61,4 +61,6 @@ Helping to summarize articles, books, or other documents. Here are some examples
 | 5   | Annual Report     | Summarize this section from PolyU Hong Kong's annual report covering academic achievements, research, and community service over the past year.               |
 | 6   | Interview         | Summarize this interview with a senior lecturer at PolyU Hong Kong discussing curriculum changes and teaching approaches in the digital
 
+Please create an [Issue](https://github.com/michaeltlp/gen_ai/issues) for any improvements, suggestions, or to report errors in the content.
+
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmichaeltlp&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fmichaeltlp)
