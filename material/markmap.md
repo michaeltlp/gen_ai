@@ -23,6 +23,7 @@ visualised in the mind map.
 
 ### Example: Artificial Intelligence (AI) Ethics
 
+# Artificial Intelligence (AI) Ethics
 ## Primary Concept
 - **Ethical Principles**
   - Transparency
