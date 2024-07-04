@@ -123,6 +123,6 @@ Remember, Markmap supports various markdown features such as:
 
 Please create an [Issue](https://github.com/michaeltlp/gen_ai/issues) for any improvements, suggestions, or to report errors in the content.
 
-https://github.com/michaeltlp/gen_ai/blob/9bf3eddeb2832552e5b9674ea263846e8029b941/images/paper1.pdf
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmichaeltlp&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fmichaeltlp)
 
 
