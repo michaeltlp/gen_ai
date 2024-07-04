@@ -15,7 +15,7 @@
 |    |        | [Exercise 2: Document Analysis using Copilot](/material/document_copilot.md) |
 |    |        | [Exercise 3: MarkMap](/material/markmap.md) |
 |    |        | [Exercise 4: Image Analysis using ChatGPT](/material/image_analysis.md) |
-|    |        | [Exercise 5: CSV File Analysis using ChatGPT](../materials/untw/dokumen_chatgpt.md) |
+|    |        | [Exercise 5: CSV File Analysis using ChatGPT](/material/csv_statistic.md) |
 |    |        | [Exercise 6: Malaysian Cultural Artistry](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/drawing.md) |
 |    |        | [Think Machine: Multidimensional Mind Mapping](https://thinkmachine.com/) |
 | 4. | Instruction | [Chain of Thought Framework (CoT)](../materials/gen_frame/1cot.md) |
