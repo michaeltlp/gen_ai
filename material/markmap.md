@@ -22,7 +22,7 @@ visualised in the mind map.
   ```
 
 ### Example: Artificial Intelligence (AI) Ethics
-
+  ```
 # Artificial Intelligence (AI) Ethics
 ## Primary Concept
 - **Ethical Principles**
@@ -100,7 +100,7 @@ visualised in the mind map.
 ### Surveillance
   - Balancing security and privacy
   - Regulation of AI surveillance technologies
-
+  ```
 This mind map provides a visual representation of the hierarchical structure of the primary theme and its related categories, ensuring that the linkages and hierarchies within the data are clearly illustrated.  
 
 
