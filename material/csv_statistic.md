@@ -107,30 +107,31 @@ We'll show the breakdown of passengers into Hong Kong residents, mainland visito
 ```
 
 ​<p align="center">
-  <img src="/images/chart1.png" height="400" alt="Title for Chart 1" />
-</p>
-<p align="center">
   <em>Title for Chart 1</em>
 </p>
-
 <p align="center">
-  <img src="/images/chart2.png" height="400" alt="Title for Chart 2" />
+  <img src="/images/chart1.png" height="300" alt="Title for Chart 1" />
 </p>
+
 <p align="center">
   <em>Title for Chart 2</em>
 </p>
-
 <p align="center">
-  <img src="/images/chart3.png" height="400" alt="Title for Chart 3" />
+  <img src="/images/chart2.png" height="300" alt="Title for Chart 2" />
 </p>
+
 <p align="center">
   <em>Title for Chart 3</em>
 </p>
-
 <p align="center">
-  <img src="/images/chart4.png" height="400" alt="Title for Chart 4" />
+  <img src="/images/chart3.png" height="300" alt="Title for Chart 3" />
 </p>
+
 <p align="center">
   <em>Title for Chart 4</em>
 </p>
+<p align="center">
+  <img src="/images/chart4.png" height="300" alt="Title for Chart 4" />
+</p>
+
 
