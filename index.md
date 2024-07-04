@@ -17,12 +17,12 @@
 |    |        | [Exercise 4: Image Analysis using ChatGPT](/material/image_analysis.md) |
 |    |        | [Exercise 5: CSV File Analysis using ChatGPT](/material/csv_statistic.md) |
 |    |        | [Exercise 6: Malaysian Cultural Artistry](/material/drawing.md) | 
-| 4. | Instruction | [Chain of Thought Framework (CoT)](../materials/gen_frame/1cot.md) |
-|    |             | [RTF Framework: _Role_, _Task_, and _Format_](../materials/gen_frame/2rtf.md) |
-|    |             | [BAB Framework: _Before_, _After_, _Bridge_](../materials/gen_frame/3bab.md) |
-|    |             | [TAG Framework: _Task, Action, Goal_](../materials/gen_frame/4tag.md) |
-|    |             | [CARE Framework: _Context, Action, Result, Example_](../materials/gen_frame/5care.md) |
-|    |             | [RISE Framework: _Role, Input, Steps, Expectation_](../materials/gen_frame/6rise.md) |
+| 4. | Instruction | [Chain of Thought Framework (CoT)](/material/gen_frame/1cot.md) |
+|    |             | [RTF Framework: _Role_, _Task_, and _Format_](/material/gen_frame/2rtf.md) |
+|    |             | [BAB Framework: _Before_, _After_, _Bridge_](/material/gen_frame/3bab.md) |
+|    |             | [TAG Framework: _Task, Action, Goal_](/material/gen_frame/4tag.md) |
+|    |             | [CARE Framework: _Context, Action, Result, Example_](/material/gen_frame/5care.md) |
+|    |             | [RISE Framework: _Role, Input, Steps, Expectation_](/material/gen_frame/6rise.md) |
 |    |             | [ChatGPT Prompts For Research Papers](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/prompt_research.md) |
 |    |             | [ChatGPT Prompts for Academic Writing](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/prompt_academic.md) |
 |    |             | [Effective Prompts](https://drshahizan.gitbook.io/copywriting-chatgpt/prompts/effective-prompts) |
