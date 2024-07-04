@@ -30,7 +30,7 @@
 |    |             | [Chat with Copilot regarding the PDF file](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/copilot.md) |
 | 5. | Quiz  | [Module 2 Quiz](/material/Quiz%20Module%202.pdf) |
 
-#### Acknowledgments
+#### Credits
 I would like to acknowledge [drshahizan](https://github.com/drshahizan) for his valuable material and contributions above.
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmichaeltlp&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fmichaeltlp)
