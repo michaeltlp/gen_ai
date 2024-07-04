@@ -134,4 +134,55 @@ We'll show the breakdown of passengers into Hong Kong residents, mainland visito
   <img src="/images/chart4.png" height="300" alt="Passenger Composition Over Time" />
 </p>
 
+3. Suggest 15 prompts that are suitable based on the given data
+4. 
+```
+Here are 15 prompts that are suitable for exploring and analyzing the provided data on daily passenger traffic:
 
+## Data Analysis Prompts
+
+1. **Trend Analysis**:
+   - "Analyze the overall trend in daily passenger traffic from 2021 onwards."
+
+2. **Comparison of Arrivals and Departures**:
+   - "Compare the daily arrivals and departures of passengers over the entire dataset."
+
+3. **Peak Traffic Days**:
+   - "Identify the days with the highest and lowest total passenger traffic."
+
+4. **Control Point Traffic**:
+   - "Which control point handles the most passenger traffic overall?"
+
+5. **Passenger Composition**:
+   - "Analyze the composition of passengers (Hong Kong residents, mainland visitors, other visitors) over time."
+
+6. **Monthly Traffic Trends**:
+   - "What are the monthly trends in passenger traffic?"
+
+7. **Impact of Specific Events**:
+   - "Analyze the impact of specific events (e.g., holidays, public health measures) on passenger traffic."
+
+8. **Weekday vs. Weekend Traffic**:
+   - "Compare the passenger traffic on weekdays versus weekends."
+
+9. **Annual Growth**:
+   - "Calculate the annual growth rate of total passenger traffic."
+
+10. **Seasonal Variations**:
+    - "Identify any seasonal variations in passenger traffic."
+
+11. **Traffic by Arrival/Departure**:
+    - "Which type of movement (arrival or departure) is more common at each control point?"
+
+12. **Daily Traffic Patterns**:
+    - "Identify patterns in daily traffic for each control point."
+
+13. **Passenger Traffic Peaks**:
+    - "Determine the peak hours for passenger arrivals and departures."
+
+14. **Forecasting Traffic**:
+    - "Forecast the passenger traffic for the next month using the historical data."
+
+15. **Correlation Analysis**:
+    - "Analyze the correlation between different types of passengers (Hong Kong residents, mainland visitors, other visitors) and total traffic."
+```
