@@ -18,10 +18,10 @@ You need to download the document to enable the document analysis process. The d
 
 ## 2. Upload file
 
-1. Please upload the file `population_malaysia.csv` in the ChatGPT input box and enter the command 'explain related to this data' (refer to the figure below). 
+1. Please upload the file `statistics_on_daily_passenger_traffic.csv` in the ChatGPT input box and enter the command 'explain this data' (refer to the figure below). 
 
 <p align="center">
-<img src="../../images/chatgpt1.png"  height="150" />
+<img src="/images/statistic_hk.png"  height="150" />
 </p>
 
 2. The result of the execution is:
