@@ -60,3 +60,5 @@ Helping to summarize articles, books, or other documents. Here are some examples
 | 4   | News Article      | Summarize this news article reporting the success of PolyU Hong Kong students in international competitions and the impact of that success on the university's reputation. |
 | 5   | Annual Report     | Summarize this section from PolyU Hong Kong's annual report covering academic achievements, research, and community service over the past year.               |
 | 6   | Interview         | Summarize this interview with a senior lecturer at PolyU Hong Kong discussing curriculum changes and teaching approaches in the digital
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmichaeltlp&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fmichaeltlp)
