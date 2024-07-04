@@ -12,7 +12,7 @@
 | 2. | Article | [Generative AI Global Interest Report 2023](https://www.electronicshub.org/generative-ai-global-interest-report-2023/) |
 | 3. | Installation & Login | [ChatGPT, Copilot, Gemini](material/installation.md) |
 | 4. | Exercise | [Exercise 1: Using Generative AI Commands](material/function.md) |
-|    |        | [Exercise 2: Document Analysis using Copilot](../materials/untw/dokumen_copilot.md) |
+|    |        | [Exercise 2: Document Analysis using Copilot](material/document_copilot.md) |
 |    |        | [Exercise 3: MarkMap](../materials/pimpin/markmap.md) |
 |    |        | [Exercise 4: Image Analysis using ChatGPT](../materials/untw/dokumen_untw.md) |
 |    |        | [Exercise 5: CSV File Analysis using ChatGPT](../materials/untw/dokumen_chatgpt.md) |
