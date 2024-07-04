@@ -82,8 +82,9 @@ Key statistics:
 2. Generate suitable charts
 
 <p align="center">
-<img src="/images/total_daily.png"  height="150" />
+<img src="/images/total_daily.png"  height="400" />
 </p>
+
 ```
 Here are two charts based on the daily passenger traffic data:
 
