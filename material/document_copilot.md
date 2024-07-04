@@ -46,7 +46,7 @@ Document analysis of PDFs in Microsoft Edge can be performed using the available
 <img src="../images/p1translate.png" height="350" />
 </p>
 
-8. **Using Copilot for Analysis**: You can use Copilot to analyze PDF documents by opening the document in Edge, clicking the Bing AI icon, and clicking 'summarize this' to get a summary of the document.
+8. **Using Copilot for Analysis**: You can use Copilot to analyze PDF documents by opening the document in Edge, clicking the Copilot icon, and clicking 'summarize this' to get a summary of the document.
 
 <p align="center">
 <img src="../images/chat.png" height="450" />
