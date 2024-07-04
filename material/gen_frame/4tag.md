@@ -42,5 +42,4 @@ Examples of prompts using the TAG framework for daily use:
 This table uses the T-A-G framework to illustrate 10 prompts that can be used in daily activities to interact with generative AI. This approach helps ensure that every interaction with AI is clearly directed towards the desired outcome.
 
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
-![Visitor Badge](https://hit.yhype.me/github/profile?user_id=81284918)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmichaeltlp&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fmichaeltlp)
