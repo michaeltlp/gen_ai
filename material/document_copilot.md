@@ -12,7 +12,7 @@
 ## 1. Download the Document
 You need to download the document to enable the document analysis process. The document is:
 
-[Li, J., **Othman, M. S.**, Chen, H., & Yusuf, L. M. (2024). Optimizing IoT intrusion detection system: feature selection versus feature extraction in machine learning. *Journal of Big Data, 11*, Article 36. https://doi.org/10.1186/s40537-024-00892-y](images/paper1.pdf)
+[Li, J., **Othman, M. S.**, Chen, H., & Yusuf, L. M. (2024). Optimizing IoT intrusion detection system: feature selection versus feature extraction in machine learning. *Journal of Big Data, 11*, Article 36. https://doi.org/10.1186/s40537-024-00892-y](../images/paper1.pdf)
 
 ## 2. How to Open the File in Microsoft Edge
 To open the PDF document named "paper1.pdf" in Microsoft Edge, please follow these steps:
