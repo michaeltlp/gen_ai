@@ -12,7 +12,7 @@
 ## 1. Download the Document
 You need to download the document to enable the document analysis process. The document is:
 
-[M. W. Chuan, K. L. Wong, A. Hamzah, S. Rusli, N. E. Alias, C. S. Lim, and **M. L. P. Tan**, "Electronic properties and carrier transport properties of low-dimensional aluminium doped silicene nanostructure," *Physica E: Low-dimensional Systems and Nanostructures*, vol. 116, p. 113731 https://doi.org/10.1186/s40537-024-00892-y (https://doi.org/10.1016/j.physe.2019.113731)](../images/paper1.pdf)
+[M. W. Chuan, K. L. Wong, A. Hamzah, S. Rusli, N. E. Alias, C. S. Lim, and **M. L. P. Tan**, "Electronic properties and carrier transport properties of low-dimensional aluminium doped silicene nanostructure," *Physica E: Low-dimensional Systems and Nanostructures*, vol. 116, p. 113731 https://doi.org/10.1186/s40537-024-00892-y](../images/paper1.pdf)
 
 ## 2. How to Open the File in Microsoft Edge
 To open the PDF document named "paper1.pdf" in Microsoft Edge, please follow these steps:
