@@ -1,6 +1,6 @@
 | No | Lesson | Topic |
 |----|--------|-------|
-| 1. | Slide | [Generative AI Facilitating Daily Activities: Transforming Modern Lifestyle](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/Ea4jHzBjWThBoiMKH93K5vQBWWfEFBIARMYtOUZf5sGs7Q?e=C5ZIoB) |
+| 1. | Slide | [Generative AI Facilitating Daily Activities: Transforming Modern Lifestyle]|
 | 2. | Article | [Generative AI Global Interest Report 2023](https://www.electronicshub.org/generative-ai-global-interest-report-2023/) |
 | 3. | Installation & Login | [ChatGPT, Copilot, Gemini](material/installation.md) |
 | 4. | Exercise | [Exercise 1: Using Generative AI Commands](../materials/untw/fungsi.md) |
