@@ -45,6 +45,8 @@ Would you like any specific analysis or visualizations for this data? ​
 ## Instructions
 1. Please generate the descriptive statistics of daily passenger traffic in ASCII format and highlight key statistics for the dataset
 ```
+Here is the descriptive statistics of daily passenger traffic in ASCII format, with key statistics highlighted:
+
 Descriptive Statistics of Daily Passenger Traffic
 --------------------------------------------------------------------
 |                           | Hong Kong Residents | Mainland Visitors | Other Visitors | Total         |
