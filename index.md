@@ -31,4 +31,5 @@
 |    |             | [215+ ChatGPT Prompts & How to Write Your Own](https://writesonic.com/blog/chatgpt-prompts) |
 |    |             | [Chat with Copilot regarding the PDF file](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/copilot.md) |
 
+Please create an [Issue](https://github.com/michaeltlp/gen_ai/issues) for any improvements, suggestions, or to report errors in the content.
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmichaeltlp&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fmichaeltlp)
