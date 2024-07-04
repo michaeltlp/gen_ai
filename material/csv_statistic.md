@@ -78,3 +78,24 @@ Key statistics:
     Minimum (min): Shows the lowest recorded number of passengers.
     Maximum (max): Shows the highest recorded number of passengers.
     Count: The total number of days data was recorded.
+
+2. Generate suitable charts
+
+<p align="center">
+<img src="/images/total_daily.png"  height="150" />
+</p>
+```
+Here are two charts based on the daily passenger traffic data:
+
+    Histograms for Different Passenger Categories:
+        The first set of charts shows the distribution of daily passenger traffic for Hong Kong Residents, Mainland Visitors, and Other Visitors.
+        Each histogram indicates the frequency of days with different numbers of passengers in each category.
+
+    Time Series of Total Daily Passenger Traffic:
+        The second chart is a time series plot showing the total daily passenger traffic over time.
+        This chart provides an overview of the trends and variations in the total number of passengers recorded each day.
+
+If you need further analysis or specific customizations, please let me know! ​
+
+```
+​
