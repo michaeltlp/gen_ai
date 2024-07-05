@@ -38,12 +38,15 @@ This collection of AI art prompts showcases the rich cultural heritage of Malays
 </p>
 
 7. A contemporary art piece inspired by Malaysian street art, featuring bold colors and abstract shapes that reflect the vibrant and diverse urban landscape of Malaysia. The artwork should capture the energy and creativity of Malaysia's street art scene.
-8. Draw a cats at KLCC. With malay girls. , Matter, Dusk, Electron Microscope, Johannes Vermeer, Neon Red Color, Gasoline, 2:1
-9.Draw cats at KLCC. with malay girls. Celebrate Hari Raya. , Multidimensional, Fluorescent, 360 Panorama, Salvador Dali, Turquoise, Glass, 2:1
-10. Create a cartoon character with the name "Cats and mouse at KLCC", the appearance "malay cloth", and the personality "shy, crazy".
 
- <p align="center">
- <img src="../images/D7.jpg"  height="300" /> <img src="../images/D8.jpg"  height="300" />  <img src="../images/D9.jpg"  height="300" /> 
+8. Create a cartoon character with the name "Cats and mouse at KLCC", the appearance "malay cloth", and the personality "shy, crazy".
+<p align="center">
+<img src="../images/D7.jpg"  height="300" /> <img src="../images/D8.jpg"  height="300" /> 
+</p>
+
+9.Draw a cats at KLCC. Matter, Dusk, Electron Microscope, Johannes Vermeer, Neon Red Color, Gasoline, 2:1 
+<p align="center">
+<img src="../images/D9.jpg"  height="300" /> 
 </p>
 
 | No | Type            | Prompt |
