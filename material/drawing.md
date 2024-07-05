@@ -33,14 +33,14 @@ This collection of AI art prompts showcases the rich cultural heritage of Malays
 
 6. Draw a digital painting of a traditional Malaysian wooden house, or "Rumah Kampung," surrounded by lush tropical vegetation. The painting should highlight the unique architectural style and cultural significance of these traditional Malay dwellings.
 
- <p align="center">
+ <p align="left">
  <img src="../images/D4.jpg"  height="300" /> <img src="../images/D5.jpg"  height="300" />  <img src="../images/D7.jpg"  height="300" /> 
 </p>
 
 7. A contemporary art piece inspired by Malaysian street art, featuring bold colors and abstract shapes that reflect the vibrant and diverse urban landscape of Malaysia. The artwork should capture the energy and creativity of Malaysia's street art scene.
 
 8. Create a cartoon character with the name "Cats and mouse at KLCC", the appearance "malay cloth", and the personality "shy, crazy".
-<p align="center">
+<p align="left">
 <img src="../images/D7.jpg"  height="300" /> <img src="../images/D8.jpg"  height="300" /> 
 </p>
 
