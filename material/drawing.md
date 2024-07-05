@@ -44,7 +44,7 @@ This collection of AI art prompts showcases the rich cultural heritage of Malays
 <img src="../images/D7.jpg"  height="300" /> <img src="../images/D8.jpg"  height="300" /> 
 </p>
 
-9.Draw a cats at KLCC. Matter, Dusk, Electron Microscope, Johannes Vermeer, Neon Red Color, Gasoline, 2:1 
+9. Draw a cats at KLCC. Matter, Dusk, Electron Microscope, Johannes Vermeer, Neon Red Color, Gasoline, 2:1 
 <p align="center">
 <img src="../images/D9.jpg"  height="300" /> 
 </p>
